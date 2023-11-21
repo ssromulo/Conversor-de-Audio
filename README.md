@@ -6,7 +6,7 @@ Como funciona:
 
 Dependências:
 - O script utiliza as bibliotecas Pydub e Os para fazer a leitura e conversão dos arquivos.
-- O software FFMPEG é utilizado pel Pydub para realizar as conversões. Caso a execução apresente algum problema relacionado ao FFMPEG ou FFPROBE, basta seguir este tutorial de como instalar e adicionar ao path do seu sistema operacional: https://phoenixnap.com/kb/ffmpeg-windows
+- O software FFMPEG é utilizado pelo Pydub para realizar as conversões. Caso a execução apresente algum problema relacionado ao FFMPEG ou FFPROBE, basta seguir este tutorial de como instalar e adicionar ao path do seu sistema operacional: https://phoenixnap.com/kb/ffmpeg-windows
 
 Passo a passo:
 - Certifique-se de que os diretórios /MP4 e /MP3 estejam criados no mesmo nível do script.
