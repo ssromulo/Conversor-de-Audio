@@ -2,7 +2,7 @@
 Este script converte arquivos MP4 para MP3 rapidamente.
 
 Como funciona:
--  O script acessa o diretório ./MP4, lê todos os arquivos que tenham a extensão .mp4 e converte todos eles em .mp3, salvando no diretório ./MP3. Ele é muito útil para converter uma massa de arquivos.
+-  O script acessa o diretório ./MP4, lê todos os arquivos que tenham a extensão .mp4 e converte todos eles em .mp3, salvando no diretório ./MP3. Ele é muito útil para converter uma massa de arquivos que tenham a extensão .mp4 para .mp3.
 
 Dependências:
 - O script utiliza as bibliotecas Pydub e Os para fazer a leitura e conversão dos arquivos.
