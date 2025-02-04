@@ -1,4 +1,4 @@
-Audio Converter
+# Audio-Converter
 - This script quickly converts MP4 files to MP3.
 
 How it works:
